@@ -1,24 +1,24 @@
 # Results on COCO By YueXi
 ![Instance Segmentation Sample](assets/coco_mask_1_org.jpg)
-assets/coco_mask_1.png
-assets/coco_mask_2_org.jpg
-assets/coco_mask_2.png
-assets/coco_mask_3_org.jpg
-assets/coco_mask_3.png
-assets/coco_mask_4_org.jpg
-assets/coco_mask_4.png
-assets/coco_mask_5_org.jpg
-assets/coco_mask_5.png
-assets/coco_mask_6_org.jpg
-assets/coco_mask_6.png
-assets/coco_mask_7_org.jpg
-assets/coco_mask_7.png
-assets/coco_mask_8_org.jpg
-assets/coco_mask_8.png
-assets/coco_mask_9_org.jpg
-assets/coco_mask_9.png
-assets/coco_mask_10_org.jpg
-assets/coco_mask_10.png
+![Instance Segmentation Sample](assets/coco_mask_1.png)
+![Instance Segmentation Sample](assets/coco_mask_2_org.jpg)
+![Instance Segmentation Sample](assets/coco_mask_2.png)
+![Instance Segmentation Sample](assets/coco_mask_3_org.jpg)
+![Instance Segmentation Sample](assets/coco_mask_3.png)
+![Instance Segmentation Sample](assets/coco_mask_4_org.jpg)
+![Instance Segmentation Sample](assets/coco_mask_4.png)
+![Instance Segmentation Sample](assets/coco_mask_5_org.jpg)
+![Instance Segmentation Sample](assets/coco_mask_5.png)
+![Instance Segmentation Sample](assets/coco_mask_6_org.jpg)
+![Instance Segmentation Sample](assets/coco_mask_6.png)
+![Instance Segmentation Sample](assets/coco_mask_7_org.jpg)
+![Instance Segmentation Sample](assets/coco_mask_7.png)
+![Instance Segmentation Sample](assets/coco_mask_8_org.jpg)
+![Instance Segmentation Sample](assets/coco_mask_8.png)
+![Instance Segmentation Sample](ssets/coco_mask_9_org.jpg)
+![Instance Segmentation Sample](assets/coco_mask_9.png)
+![Instance Segmentation Sample](assets/coco_mask_10_org.jpg)
+![Instance Segmentation Sample](assets/coco_mask_10.png)
 
 # Mask R-CNN for Object Detection and Segmentation
 
