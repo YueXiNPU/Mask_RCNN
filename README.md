@@ -1,5 +1,5 @@
 # Results on COCO By YueXi
-![Instance Segmentation Sample](assets/coco_mask_1_org.jpg)
+![](assets/coco_mask_1_org.jpg)
 ![Instance Segmentation Sample](assets/coco_mask_1.png)
 ![Instance Segmentation Sample](assets/coco_mask_2_org.jpg)
 ![Instance Segmentation Sample](assets/coco_mask_2.png)
