@@ -1,3 +1,25 @@
+# Results on COCO By YueXi
+assets/coco_mask_1_org.jpg
+assets/coco_mask_1.png
+assets/coco_mask_2_org.jpg
+assets/coco_mask_2.png
+assets/coco_mask_3_org.jpg
+assets/coco_mask_3.png
+assets/coco_mask_4_org.jpg
+assets/coco_mask_4.png
+assets/coco_mask_5_org.jpg
+assets/coco_mask_5.png
+assets/coco_mask_6_org.jpg
+assets/coco_mask_6.png
+assets/coco_mask_7_org.jpg
+assets/coco_mask_7.png
+assets/coco_mask_8_org.jpg
+assets/coco_mask_8.png
+assets/coco_mask_9_org.jpg
+assets/coco_mask_9.png
+assets/coco_mask_10_org.jpg
+assets/coco_mask_10.png
+
 # Mask R-CNN for Object Detection and Segmentation
 
 This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
